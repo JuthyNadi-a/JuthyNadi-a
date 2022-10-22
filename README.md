@@ -55,7 +55,6 @@
 </a>
                                                                                                                                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuthyNadi-a&layout=compact&card_width=300&theme=dark)](https://github.com/JuthyNadi-a/github-readme-stats)
-</div>
----
+</div>  
 
 [Snake animation](https://github.com/JuthyNadi-a/JuthyNadi-a/blob/output/github-contribution-grid-snake.svg)
