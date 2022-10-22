@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" height="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nadia-jahan-juthy/">
