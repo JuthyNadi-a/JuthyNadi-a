@@ -49,7 +49,7 @@
 ---
 <a href="https://github.com/JuthyNadi-a/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true&show_icons=true&hide=contribs&theme=radical"/>
-</a>
-<br>                                                                                                                                           
+</a>&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuthyNadi-a&layout=compact&card_width=440)](https://github.com/JuthyNadi-a/github-readme-stats)
+---
 
