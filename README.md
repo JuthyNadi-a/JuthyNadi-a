@@ -58,4 +58,4 @@
 </div>  
                                  
                                                                                                                                         
-![Snake animation](https://github.com/{{JuthyNadi-a}}/{{JuthyNadi-a}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JuthyNadi-a/JuthyNadi-a/blob/output/github-contribution-grid-snake.svg)
