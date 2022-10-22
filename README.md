@@ -40,15 +40,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd" alt="xd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
  
 ---
+<div align="center">
 <a href="https://github.com/JuthyNadi-a/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true&show_icons=true&hide=contribs&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true&show_icons=true&hide=contribs&theme=dark"/>
 </a>
----  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuthyNadi-a&layout=compact&card_width=440)](https://github.com/JuthyNadi-a/github-readme-stats)
+                                                                                                                                           
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuthyNadi-a&layout=compact&card_width=300&theme=dark)](https://github.com/JuthyNadi-a/github-readme-stats)
+</div>
