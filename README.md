@@ -45,9 +45,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
+ 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a)](https://github.com/JuthyNadi-a/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&hide=issues,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&show_icons=true)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&show_icons=true&theme=radical)
+[![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a)](https://github.com/JuthyNadi-a/github-readme-stats)
+![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&hide=issues,prs)
+![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true)
+![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&show_icons=true)  
+![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&show_icons=true&theme=radical)
