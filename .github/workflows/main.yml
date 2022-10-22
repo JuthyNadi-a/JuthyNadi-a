@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
          svg_out_path: dist/github-contribution-grid-snake.svg
-              github_user_name:{{your_username}}
+              github_user_name:{{JuthyNadi-a}}
                   
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
