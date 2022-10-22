@@ -47,8 +47,6 @@
 </div>
  
 ---
-
-
-    ![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true&show_icons=true&theme=radical)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuthyNadi-a&layout=compact)](https://github.com/JuthyNadi-a/github-readme-stats)
+![JuthyNadi-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuthyNadi-a&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuthyNadi-a&layout=compact)](https://github.com/JuthyNadi-a/github-readme-stats)
 
