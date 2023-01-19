@@ -17,7 +17,7 @@
 
 ### :woman_technologist: 
 
-- 🎓 I'm studying Business Information Technology at Haaga-Helia University of Applied Sciences and also Full-Stack Web Development at [Business College Helsinki](https://github.com/HelsinkiBusinessCollege)
+- 🎓 I'm studying Business Information Technology at [Haaga-Helia University of Applied Sciences](https://www.haaga-helia.fi/fi) and also Full-Stack Web Development at [Business College Helsinki](https://en.bc.fi/)
 - :seedling: Exploring Cloud computing - AWS, Azure.
 - ⚡ Love travelling, flowers and reading.
 - :mailbox:  Reach me through: [![Gmail Badge](https://img.shields.io/badge/-Nadia-red?style=flat&logo=Gmail&logoColor=white)](juthynadia@gmail.com)
