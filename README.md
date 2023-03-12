@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/nadia-jahan-juthy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/_juthy_nadia_/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=JuthyNadi-a&style=flat-square&color=blue" alt=""/>
 
