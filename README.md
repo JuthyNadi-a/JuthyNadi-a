@@ -11,8 +11,7 @@
 
 ### Hi there, I'm Nadia! 👋
 ---
-
-### :woman_technologist: 
+ 
 
 - 🎓 I'm studying Business Information Technology at [Haaga-Helia University of Applied Sciences](https://www.haaga-helia.fi/fi) and also Full-Stack Web Development at [Business College Helsinki](https://en.bc.fi/)
 - Exploring Cloud computing - AWS, Azure and Web development - React, Node.
